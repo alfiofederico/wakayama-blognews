@@ -11,7 +11,7 @@ export default function CategoryBlogPage({ posts, categoryName, categories }) {
   return (
     <Layout>
       <div className="flex justify-between">
-        <div className="w-3/4 mr-10">
+        <div className="w-4/4 mr-10">
           <h1 className="text-5xl border-b-4 p-5 font-bold">
             More in {categoryName}!
           </h1>
@@ -22,9 +22,9 @@ export default function CategoryBlogPage({ posts, categoryName, categories }) {
             ))}
           </div>
         </div>
-        <div className="w-1/4">
+{/*         <div className="w-1/4">
           <CategoryList categories={categories} />
-        </div>
+        </div> */}
       </div>
     </Layout>
   );
