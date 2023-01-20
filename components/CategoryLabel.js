@@ -4,11 +4,11 @@ import Link from "next/link";
 export default function CategoryLabel({children}) {
 
   const colorKey = {
-    JavaScript: "yellow",
-    CSS: "blue",
-    Python: "green",
-    PHP: "purple",
-    Ruby: "red",
+    Travel: "yellow",
+    Events: "blue",
+    Family: "green",
+    News: "purple",
+    Cooking: "red",
   }
   return (
     <div

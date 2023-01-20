@@ -12,7 +12,14 @@ export default function PostPage({frontmatter: {title, category, date, cover_ima
   
   return (
     <Layout title={title}>
-      <Link href="/blog">Go Back</Link>
+      <Link href="/blog">
+        <button
+          type="button"
+          class="inline-block px-6 py-2.5 ml-2 bg-gray-800 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:bg-gray-900 hover:shadow-lg focus:bg-gray-900 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-gray-900 active:shadow-lg transition duration-150 ease-in-out"
+        >
+          Back
+        </button>
+      </Link>
       <div className="w-full px-10 py-6 bg-white rounded-md shadow-md mt-6">
         <div className="flex justify-between items-center mt-4">
           <h1 className="text-5xl mb-7">{title}</h1>
@@ -33,7 +40,7 @@ export default function PostPage({frontmatter: {title, category, date, cover_ima
         </div>
 
         <div className="blog-text mt-2">
-          {<div dangerouslySetInnerHTML={{ __html: marked(content) }}></div> }
+          {<div dangerouslySetInnerHTML={{ __html: marked(content) }}></div>}
         </div>
       </div>
     </Layout>

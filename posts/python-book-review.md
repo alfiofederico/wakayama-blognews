@@ -3,9 +3,9 @@ title: 'Python Book Review'
 date: 'May 7, 2021'
 excerpt: 'In this review, we will be looking at the new Python book from Oriley'
 cover_image: '/images/posts/img6.jpg'
-category: 'Python'
-author: 'Mike Richards'
-author_image: 'https://randomuser.me/api/portraits/men/13.jpg'
+category: 'News'
+author: 'Federico'
+author_image: '/images/authors/profilepic.jpg'
 ---
 
 <!-- Markdow generator - https://jaspervdj.be/lorem-markdownum/ -->

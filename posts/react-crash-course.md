@@ -1,11 +1,11 @@
 ---
-title: 'React Crash Course'
-date: 'May 8, 2021'
-excerpt: 'Crash course to learn the React JavaScript library. We will look at components, hooks and more'
+title: 'Event title'
+date: 'January 2, 2023'
+excerpt: 'Test Title'
 cover_image: '/images/posts/img5.jpg'
-category: 'JavaScript'
-author: 'Jane Doe'
-author_image: 'https://randomuser.me/api/portraits/women/11.jpg'
+category: 'Events'
+author: 'Federico'
+author_image: '/images/authors/profilepic.jpg'
 ---
 
 <!-- Markdow generator - https://jaspervdj.be/lorem-markdownum/ -->
@@ -30,10 +30,7 @@ consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
 Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
 procul fugitque corpora iugales!
 
-    var ethics_font_drive = cycleSystemProgram + deprecatedTransferIp.ide(3) /
-            rgb + nybbleBaseband;
-    permalinkCertificateMacintosh(ergonomicsIsdnDns);
-    boot = bridgeDaemonActive;
+
 
 ## O contra diu
 
