@@ -2,6 +2,7 @@ import Layout from "@/components/Layout";
 import Link from 'next/link';
 import Post from '@/components/Post';
 import { getPosts } from "@/lib/posts";
+import Footer from "@/components/Footer";
 
 
 export default function HomePage({posts}) {
@@ -21,6 +22,7 @@ export default function HomePage({posts}) {
           More Posts
         </a>
       </Link>
+      <Footer />
     </Layout>
   );
 }

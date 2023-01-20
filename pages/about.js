@@ -10,6 +10,8 @@ export default function AboutPage() {
       <div className="bg-white shadow-md rounded-lg px-10 py-6 mt-6">
         <h3 className="text-2xl mb-5">Wakayama BlogNews</h3>
 
+        <p>A place where you can share anything related to Wakayama!</p>
+
         <p className="mb-3">Built with Next.js, Markdown and Tailwind</p>
 
         <p>
