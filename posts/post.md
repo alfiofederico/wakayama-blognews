@@ -1,8 +1,8 @@
 ---
-title: 'Tailwind vs. Bootstrap'
-date: 'May 5, 2021'
-excerpt: 'Both Tailwind and Bootstrap are very popular CSS frameworks. In this article, we will compare them'
-cover_image: '/images/posts/img2.jpg'
+title: 'English Lessons'
+date: 'January 10, 2021'
+excerpt: 'Learn English'
+cover_image: '/images/posts/ramen.jpg'
 category: 'Travel'
 author: 'Federico'
 author_image: '/images/authors/profilepic.jpg'
@@ -30,10 +30,7 @@ consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
 Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
 procul fugitque corpora iugales!
 
-    var ethics_font_drive = cycleSystemProgram + deprecatedTransferIp.ide(3) /
-            rgb + nybbleBaseband;
-    permalinkCertificateMacintosh(ergonomicsIsdnDns);
-    boot = bridgeDaemonActive;
+
 
 ## O contra diu
 

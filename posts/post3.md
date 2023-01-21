@@ -1,8 +1,8 @@
 ---
-title: "What's New In PHP 8?"
-date: 'May 7, 2021'
-excerpt: 'In this article we will look at some of the new features offered in version 8 of PHP'
-cover_image: '/images/posts/img4.jpg'
+title: "Title"
+date: 'January 4, 2023'
+excerpt: 'In this article...'
+cover_image: '/images/posts/ramen.jpg'
 category: 'Family'
 author: 'Federico'
 author_image: '/images/authors/profilepic.jpg'

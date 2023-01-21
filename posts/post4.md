@@ -1,8 +1,8 @@
 ---
-title: 'Python Book Review'
-date: 'May 7, 2021'
-excerpt: 'In this review, we will be looking at the new Python book from Oriley'
-cover_image: '/images/posts/img6.jpg'
+title: 'Review'
+date: 'January 5, 2023'
+excerpt: 'Description'
+cover_image: '/images/posts/ramen.jpg'
 category: 'News'
 author: 'Federico'
 author_image: '/images/authors/profilepic.jpg'

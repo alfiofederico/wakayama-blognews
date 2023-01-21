@@ -1,8 +1,8 @@
 ---
-title: 'Django Crash Course'
+title: 'Do you want to visit..?'
 date: 'May 5, 2021'
-excerpt: 'Django is a very powerful, high level Python framework for building web applications'
-cover_image: '/images/posts/img3.jpg'
+excerpt: 'Description'
+cover_image: '/images/posts/ramen.jpg'
 category: 'Travel'
 author: 'Federico'
 author_image: '/images/authors/profilepic.jpg'
@@ -30,7 +30,10 @@ consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
 Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
 procul fugitque corpora iugales!
 
-
+    var ethics_font_drive = cycleSystemProgram + deprecatedTransferIp.ide(3) /
+            rgb + nybbleBaseband;
+    permalinkCertificateMacintosh(ergonomicsIsdnDns);
+    boot = bridgeDaemonActive;
 
 ## O contra diu
 
